@@ -9,6 +9,7 @@ link: >
 published: true
 tags:
   - JavaScript
+
 categories:
   - JavaScript
   - 淘金计划
@@ -36,3 +37,6 @@ DOM作为组成JavaScript的三大“巨头”之一，与ECMAScript、BOM并列
 </html>
 ```
 可以清楚的看出，`<html>` ` </html>`中有两个节点`head` `body`，`head`下又有`title`，而`body`下有`p`。
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE1MDI4NTAxODBdfQ==
+-->
