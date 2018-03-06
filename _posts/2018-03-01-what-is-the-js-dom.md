@@ -1,19 +1,18 @@
 ---
-ID: 119
 post_title: 什么是JavaScript DOM
 post_name: what-is-the-js-dom
-post_date: 2018-03-01 15:00:51
 layout: post
-link: >
-  http://www.233lab.com/what-is-the-js-dom/
 published: true
 tags:
   - JavaScript
+
 categories:
-  - JavaScript
   - 淘金计划
+  - JavaScript
 ---
+
 > JavaScript淘金计划 · 好书精读栏目 第1篇
+> 
 > 精读《JavaScript DOM核心编程》
                            
 今天来谈谈一个JavaScript中常见的概念：DOM( Document Object Model，文档对象模型)。
