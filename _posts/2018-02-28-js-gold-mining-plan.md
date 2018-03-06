@@ -9,12 +9,10 @@ link: >
 published: true
 tags:
   - JavaScript
-  
 categories:
-  - 淘金计划
   - JavaScript
+  - 淘金计划
 ---
-
 很早就想写跟JavaScript相关内容的文章，但总是妄自菲薄，不敢动笔。
 
 那么，从现在——2018年2月28日——开始JavaScript相关写作！
@@ -51,4 +49,3 @@ categories:
 2018年已经过去8周，第九周也正在过去。
 
 **Hold on, we will fly.**
-
