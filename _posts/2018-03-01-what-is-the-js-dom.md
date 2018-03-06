@@ -2,7 +2,7 @@
 ID: 172
 post_title: 什么是JavaScript DOM
 post_name: what-is-the-js-dom
-post_date: 2018-03-06 20:08:03
+post_date: 2018-03-01 20:08:03
 layout: post
 link: >
   http://www.233lab.com/what-is-the-js-dom/
