@@ -9,7 +9,6 @@ link: >
 published: true
 tags:
   - JavaScript
-
 categories:
   - JavaScript
   - 淘金计划
