@@ -40,7 +40,8 @@ DOM作为组成JavaScript的三大“巨头”之一，与ECMAScript、BOM并列
 
 DOM经历了一系列的升级，包括从初级版的DOM0级（DOM Level 0）到DOM1级、DOM2级、DOM3级。
 
->  在《JavaScript高级程序设计（第三版）》中备注：实际上，DOM0级标准是不存在的；所谓的DOM0级只是历史上坐标中一个参照点而已。具体来说，DOM0级指的是 Internet Explorer 4.0 和Netscape Navigator 4.0 最初支持的DHTML.
+>  在《JavaScript高级程序设计（第三版）》中备注：
+>  实际上，DOM0级标准是不存在的；所谓的DOM0级只是历史上坐标中一个参照点而已。具体来说，DOM0级指的是 Internet Explorer 4.0 和Netscape Navigator 4.0 最初支持的DHTML.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzA4MTI4Ml19
+eyJoaXN0b3J5IjpbLTEyNTYyNjAwNzJdfQ==
 -->
