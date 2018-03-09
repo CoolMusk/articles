@@ -6,7 +6,7 @@ post_name: stackedit_sync_github_wordpress-2
 post_date: 2018-02-27 14:19:29
 layout: post
 link: >
-  http://www.233lab.com/stackedit_sync_github_wordpress-2/
+  http://www.233lab.com/stackedit_sync_github_wordpress/
 published: true
 tags:
   - GitHub Sync WordPress
