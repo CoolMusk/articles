@@ -13,9 +13,8 @@ categories:
   - JavaScript
   - 淘金计划
 ---
-> JavaScript淘金计划 · 好书精读栏目 第1篇
-> 
-> 精读《JavaScript DOM核心编程》
+JavaScript淘金计划 · 好书精读栏目 第1篇。
+精读《JavaScript DOM核心编程》
                            
 今天来谈谈一个JavaScript中常见的概念：DOM( Document Object Model，文档对象模型)。
 
@@ -44,6 +43,5 @@ DOM经历了一系列的升级，包括从初级版的DOM0级（DOM Level 0）�
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjM1NzQ2MDYsLTE0NTc0NzI4MjhdfQ
-==
+eyJoaXN0b3J5IjpbMTk1MjAzMTYyOCwtMTQ1NzQ3MjgyOF19
 -->
