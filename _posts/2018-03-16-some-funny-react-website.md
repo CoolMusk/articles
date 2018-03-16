@@ -1,7 +1,7 @@
 ---
 ID: 236
 post_title: >
-  我收集的一些有趣的React技术栈网站及教程
+  React技术栈：我收集的一些有趣的网站及教程
 post_name: some-funny-react-website
 post_date: 2018-03-16 10:36:24
 layout: post
