@@ -1,19 +1,17 @@
 ---
-ID: 231
-post_title: >
-  我收集的一些有趣的React技术栈网站及教程
+post_title: 我收集的一些有趣的React技术栈网站及教程
 post_name: some-funny-react-website
 post_date: 2018-03-16 10:36:24
 layout: post
-link: >
-  http://www.233lab.com/some-funny-react-website/
 published: true
 tags:
   - react
+  
 categories:
   - JavaScript
   - React
 ---
+
 一口气打了这么长的博文名字，长舒一口气。
 
 React是Facebook在2013年开源在GitHub上的一个JavaScript库，React把用户界面抽象成一个个组件，如按钮组件Button、对话框组件Dialog、日期组件Calendar。开发者通过组合这些组件，最终得到功能丰富、可交互的页面。通过引入JSX语法，复用组件变得非常容易，同时也能保证组件结构清晰。有了组件这层抽象，React把代码和真实渲染目标隔离开来，除了可以在浏览器端渲染到DOM来开发网页外，还能用于开发原生移动应用。
@@ -35,11 +33,10 @@ React是Facebook在2013年开源在GitHub上的一个JavaScript库，React把用
 2.框架：React Native 
 官方文档：[英文版点这里](https://facebook.github.io/react-native/)，[中文版点这里](https://reactnative.cn/docs/0.51/getting-started.html)。
 
-3.框架：Redux 
-  官方文档：[英文版点这里](https://redux.js.org/)，[中文版点这里](http://cn.redux.js.org/)。
+3.框架：Redux   
+官方文档：[英文版点这里](https://redux.js.org/)，[中文版点这里](http://cn.redux.js.org/)。
 
-4.框架：Flux  
-官方文档：[英文版点这里](https://facebook.github.io/flux/)。
+4.框架：Flux   官方文档：[英文版点这里](https://facebook.github.io/flux/)。
 
 5.路由库： React-router
 官方文档：[英文版点这里](https://reacttraining.com/react-router/)，[中文版点这里](https://react-guide.github.io/react-router-cn/)。
@@ -63,3 +60,4 @@ React是Facebook在2013年开源在GitHub上的一个JavaScript库，React把用
 祝大家学习愉快。
 
 （完）
+
