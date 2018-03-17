@@ -38,3 +38,6 @@ ECMAScript不支持任何创建自定义类型的机制，而所有值最终都�
 #### 参考资料
 - https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Data_structures      ，by MDN
 - JavaScript 高级程序设计（第三版）, by Nicholas C.Zakas
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE2NjMzNjQ0NTBdfQ==
+-->
