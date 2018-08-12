@@ -1,11 +1,11 @@
 ---
 ID: 247
 post_title: JavaScript 引用类型
-post_name: js-reference-types-2
+post_name: js-reference-types
 post_date: 2018-08-07 22:36:24
 layout: post
 link: >
-  http://www.233lab.com/js-reference-types-2/
+  http://www.233lab.com/js-reference-types/
 published: true
 tags:
   - JavaScript
